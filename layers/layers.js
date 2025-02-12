@@ -34,7 +34,8 @@ var lyr_Img1988_2 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079]
+                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079],
+                                imageSmoothing: false
                             })
                         });
 var lyr_Img1998_3 = new ol.layer.Image({
@@ -47,7 +48,8 @@ var lyr_Img1998_3 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079]
+                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079],
+                                imageSmoothing: false
                             })
                         });
 var lyr_Img2008_4 = new ol.layer.Image({
@@ -60,7 +62,8 @@ var lyr_Img2008_4 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079]
+                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079],
+                                imageSmoothing: false
                             })
                         });
 var lyr_Img2018_5 = new ol.layer.Image({
@@ -73,7 +76,8 @@ var lyr_Img2018_5 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079]
+                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079],
+                                imageSmoothing: false
                             })
                         });
 var lyr_Img2024_6 = new ol.layer.Image({
@@ -86,7 +90,8 @@ var lyr_Img2024_6 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079]
+                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079],
+                                imageSmoothing: false
                             })
                         });
 var format_MangroveSitecopy_7 = new ol.format.GeoJSON();
@@ -114,7 +119,8 @@ var lyr_NDVI1988_8 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079]
+                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079],
+                                imageSmoothing: false
                             })
                         });
 var lyr_NDVI1998_9 = new ol.layer.Image({
@@ -127,7 +133,8 @@ var lyr_NDVI1998_9 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079]
+                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079],
+                                imageSmoothing: false
                             })
                         });
 var lyr_NDVI2008_10 = new ol.layer.Image({
@@ -140,7 +147,8 @@ var lyr_NDVI2008_10 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079]
+                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079],
+                                imageSmoothing: false
                             })
                         });
 var lyr_NDVI2018_11 = new ol.layer.Image({
@@ -153,7 +161,8 @@ var lyr_NDVI2018_11 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079]
+                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079],
+                                imageSmoothing: false
                             })
                         });
 var lyr_NDVI2024_12 = new ol.layer.Image({
@@ -166,7 +175,8 @@ var lyr_NDVI2024_12 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079]
+                                imageExtent: [8083680.000000, 2443089.877663, 8100510.000000, 2460082.239079],
+                                imageSmoothing: false
                             })
                         });
 var lyr_SiteSuitablity_13 = new ol.layer.Image({
@@ -179,7 +189,8 @@ var lyr_SiteSuitablity_13 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8083422.262395, 2442848.728392, 8100743.980822, 2460332.880376]
+                                imageExtent: [8083422.262395, 2442848.728392, 8100743.980822, 2460332.880376],
+                                imageSmoothing: false
                             })
                         });
 var lyr_INTZone_14 = new ol.layer.Image({
@@ -192,7 +203,8 @@ var lyr_INTZone_14 = new ol.layer.Image({
     attributions: ' ',
                                 projection: 'EPSG:3857',
                                 alwaysInRange: true,
-                                imageExtent: [8075160.000000, 2436387.770402, 8112480.000000, 2462114.696153]
+                                imageExtent: [8075160.000000, 2436387.770402, 8112480.000000, 2462114.696153],
+                                imageSmoothing: false
                             })
                         });
 var format_LowTideLine_15 = new ol.format.GeoJSON();
